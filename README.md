@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **WallSpace**, an app for art lovers to rent art in their city.
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently improving my **React** skills.
 
 - 👨‍💻 All of my projects are available at [https://wondrous-sprite-d950e1.netlify.app/](https://wondrous-sprite-d950e1.netlify.app/)
 
