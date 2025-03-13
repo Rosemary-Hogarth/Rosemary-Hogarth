@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rosemary</h1>
-<h3 align="center">A passionate junior developer from Scotland</h3>
+<h3 align="center">A junior developer from Scotland</h3>
 
 - 🔭 I’m currently working on freelance web development projects (see the 'Julius-Heinemann-Art' repo for the latest example).
 
