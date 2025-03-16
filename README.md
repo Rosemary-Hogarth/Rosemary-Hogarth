@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on freelance web development projects (see the 'Julius-Heinemann-Art' repo for the latest example).
 
-- 🌱 I’m focussing on strengthening my skills in JavaScript/React and my upcoming project will be built using Next.js.
+- 🌱 I’m focussing on strengthening my frontend skills and my upcoming project will be built using Next.js.
 
 - 👨‍💻 All of my projects are available at [https://wondrous-sprite-d950e1.netlify.app/](https://wondrous-sprite-d950e1.netlify.app/)
 
