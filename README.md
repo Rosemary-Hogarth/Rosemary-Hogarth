@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rosemary</h1>
 <h3 align="center">A junior developer from Scotland</h3>
 
-- 🔭 I'm at Junior Front-End Developer at LEAP/ Digital Marketing.
+- 👨‍💻 I'm at junior front-end developer at LEAP/ Digital Marketing.
 
-- 👨‍💻 All of my projects are available at [https://wondrous-sprite-d950e1.netlify.app/](https://wondrous-sprite-d950e1.netlify.app/)
+- 🔭 All of my projects are available at [https://wondrous-sprite-d950e1.netlify.app/](https://wondrous-sprite-d950e1.netlify.app/)
 
 - 📫 How to reach me **rohogarth@gmail.com**
 
